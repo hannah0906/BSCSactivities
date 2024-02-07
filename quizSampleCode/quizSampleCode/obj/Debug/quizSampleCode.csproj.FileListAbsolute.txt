@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\bin\Debug\quizSampleCode.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\bin\Debug\quizSampleCode.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\bin\Debug\quizSampleCode.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\obj\Debug\quizSampleCode.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\obj\Debug\quizSampleCode.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\obj\Debug\quizSampleCode.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\quizSampleCode\quizSampleCode\obj\Debug\quizSampleCode.pdb

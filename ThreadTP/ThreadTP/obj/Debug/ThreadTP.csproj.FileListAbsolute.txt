@@ -1,0 +1,10 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\bin\Debug\ThreadTP.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\bin\Debug\ThreadTP.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\bin\Debug\ThreadTP.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.frmTrackThread.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.Properties.Resources.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.csproj.GenerateResource.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\ThreadTP\ThreadTP\obj\Debug\ThreadTP.pdb

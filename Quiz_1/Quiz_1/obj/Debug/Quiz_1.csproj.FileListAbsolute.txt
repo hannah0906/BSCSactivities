@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\bin\Debug\Quiz_1.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\bin\Debug\Quiz_1.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\bin\Debug\Quiz_1.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\obj\Debug\Quiz_1.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\obj\Debug\Quiz_1.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\obj\Debug\Quiz_1.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_1\Quiz_1\obj\Debug\Quiz_1.pdb

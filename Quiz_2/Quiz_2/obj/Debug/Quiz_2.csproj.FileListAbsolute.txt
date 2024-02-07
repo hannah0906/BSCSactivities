@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\bin\Debug\Quiz_2.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\bin\Debug\Quiz_2.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\bin\Debug\Quiz_2.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\obj\Debug\Quiz_2.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\obj\Debug\Quiz_2.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\obj\Debug\Quiz_2.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\Quiz_2\Quiz_2\obj\Debug\Quiz_2.pdb
