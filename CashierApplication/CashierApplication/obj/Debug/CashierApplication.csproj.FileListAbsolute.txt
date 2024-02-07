@@ -1,0 +1,11 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDIscountedItem.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CashierApplication\CashierApplication\obj\Debug\CashierApplication.frmLoginAccount.resources

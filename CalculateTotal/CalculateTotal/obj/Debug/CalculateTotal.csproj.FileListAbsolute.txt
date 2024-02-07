@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\bin\Debug\CalculateTotal.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\bin\Debug\CalculateTotal.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\bin\Debug\CalculateTotal.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\obj\Debug\CalculateTotal.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\obj\Debug\CalculateTotal.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\obj\Debug\CalculateTotal.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\CalculateTotal\CalculateTotal\obj\Debug\CalculateTotal.pdb

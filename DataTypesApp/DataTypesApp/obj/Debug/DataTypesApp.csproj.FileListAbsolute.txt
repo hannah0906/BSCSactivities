@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.pdb

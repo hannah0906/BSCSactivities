@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.pdb

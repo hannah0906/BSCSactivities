@@ -1,0 +1,2 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\activity_07\activity_07\obj\Debug\activity_07.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\activity_07\activity_07\obj\Debug\activity_07.csproj.CoreCompileInputs.cache
