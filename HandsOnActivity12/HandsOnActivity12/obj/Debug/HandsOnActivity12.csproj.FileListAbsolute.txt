@@ -1,0 +1,12 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\bin\Debug\HandsOnActivity12.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\bin\Debug\HandsOnActivity12.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\bin\Debug\HandsOnActivity12.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.FrmFileName.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.FrmLab1.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.Properties.Resources.resources
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.csproj.GenerateResource.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\HandsOnActivity12\HandsOnActivity12\obj\Debug\HandsOnActivity12.FrmRegistration.resources
