@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\bin\Debug\LabExer1.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\bin\Debug\LabExer1.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\bin\Debug\LabExer1.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\obj\Debug\LabExer1.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\obj\Debug\LabExer1.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\obj\Debug\LabExer1.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\LabExer1\LabExer1\obj\Debug\LabExer1.pdb

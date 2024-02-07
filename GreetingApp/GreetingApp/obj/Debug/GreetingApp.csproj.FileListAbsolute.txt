@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb

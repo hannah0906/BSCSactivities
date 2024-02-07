@@ -1,0 +1,7 @@
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\obj\Debug\InheritanceActivity.csproj.AssemblyReference.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\obj\Debug\InheritanceActivity.csproj.CoreCompileInputs.cache
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\bin\Debug\InheritanceActivity.exe.config
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\bin\Debug\InheritanceActivity.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\bin\Debug\InheritanceActivity.pdb
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\obj\Debug\InheritanceActivity.exe
+C:\Users\rodelpaulino\Desktop\Hannah's VS\Paulino_Ma.HannahMae\InheritanceActivity\InheritanceActivity\obj\Debug\InheritanceActivity.pdb

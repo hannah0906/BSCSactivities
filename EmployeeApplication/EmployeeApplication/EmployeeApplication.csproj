@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1BAFEA89-A164-4BCD-84E5-6965821AA298}</ProjectGuid>
+    <ProjectGuid>{9A6894C7-1A05-44AF-B03C-E1DB492EF73B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>EmployeeApplication</RootNamespace>
     <AssemblyName>EmployeeApplication</AssemblyName>
@@ -46,18 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmComputeSalary.cs">
+    <Compile Include="Employee.cs" />
+    <Compile Include="frmEmployeeDatabase.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmComputeSalary.Designer.cs">
-      <DependentUpon>frmComputeSalary.cs</DependentUpon>
+    <Compile Include="frmEmployeeDatabase.Designer.cs">
+      <DependentUpon>frmEmployeeDatabase.cs</DependentUpon>
     </Compile>
-    <Compile Include="IEmployee.cs" />
-    <Compile Include="PartTimeEmployee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmComputeSalary.resx">
-      <DependentUpon>frmComputeSalary.cs</DependentUpon>
+    <EmbeddedResource Include="frmEmployeeDatabase.resx">
+      <DependentUpon>frmEmployeeDatabase.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
