@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.responsive{
+    width:100%;
+    height:auto;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    background: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 70px;
+}
+
+.c{
+text-align: center;
+background: rgb(143, 142, 142);
+}
+
+nav ul li a {
+    color: #fff;
+}
+
+.a {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 15spx;
+    padding: 20px 25px 20px 20px;
+    margin: 0 auto;
+}
+
+.item {
+    border: 1px solid #000000;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.car{
+    background: red;
+}
+
+.bike{
+    background: blue;
+}
+
+.other{
+    background:yellow;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    bottom: 10px;
+    width: 1310px;
+}
+
+.home {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    bottom: 10px;
+    width: 1350px;
+}
